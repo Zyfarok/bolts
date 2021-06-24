@@ -9,3 +9,7 @@ tip-sessions
 
 # Inox smt debug folder
 smt-sessions
+
+# vs-code files
+.vscode
+.metals
